@@ -5,3 +5,4 @@ pandas>=2.0.0
 plotly>=5.18.0
 statsmodels>=0.14.0
 lxml>=4.9.0
+playwright>=1.44.0
